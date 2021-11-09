@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Adriana = () => {
+const test = () => {
     return (
         <div>
             Página de prueba
@@ -8,5 +8,5 @@ const Adriana = () => {
     )
 }
 
-export default Adriana
+export default test
 
